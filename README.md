@@ -1,5 +1,5 @@
 # Recipe Page solution | Frontend Mentor
-This is a solution to the Recipe Page challenge on Frontend Mentor, with media query and bootstrap available classes.
+This is a solution to the Recipe Page challenge on Frontend Mentor, with media query and bootstrap available classes. See project [Recipe Page](https://virginiadm.github.io/Recipe-Page/)
 
 ## 📝Brief
 Your challenge is to build out this recipe page and get it looking as close to the design as possible.
