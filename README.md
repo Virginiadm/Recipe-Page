@@ -40,6 +40,8 @@ Download the starter code and go through the README.md file. This will provide f
    <!-- hidden xs -->
       <div class="padre_imagen d-none d-sm-block"> ... </div>           
   ```
+## What challenges did you encounter, and how did you overcome them?
+The container div has a padding around it that serves as a separation, when I make the response, in the mobile version that padding only disappears for the image. To solve it, I added the same image outside the container div, now I have two images of the recipe. The first one will be displayed on all screens except the mobile screen and the second one will be displayed exclusively on the mobile view. With bootstrap tags this is done automatically.
 
 ## Author
 - Website - [Virginia Díaz](https://github.com/Virginiadm)
