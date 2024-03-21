@@ -21,3 +21,4 @@ Download the starter code and go through the README.md file. This will provide f
 - Mobile Design (375px)
 
 ## Responsive Web design
+![Recipe Page - responsive Web design](/responsive.jpg)
