@@ -42,5 +42,5 @@ Download the starter code and go through the README.md file. This will provide f
   ```
 
 ## Author
-- Website - <a href="https://github.com/Virginiadm" target="_blank">Virginia Díaz</a>
-- Frontend Mentor - [Virginia Díaz](https://www.frontendmentor.io/profile/Virginiadm){:target="_blank"}
+- Website - [Virginia Díaz](https://github.com/Virginiadm)
+- Frontend Mentor - [Virginia Díaz](https://www.frontendmentor.io/profile/Virginiadm)
