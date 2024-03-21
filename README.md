@@ -15,10 +15,32 @@ Download the starter code and go through the README.md file. This will provide f
 - README file to help you get started
 - HTML file with pre-written content
 
-
 ## Requirements
 - Desktop Design (1440px)
 - Mobile Design (375px)
 
 ## Responsive Web design
 ![Recipe Page - responsive Web design](/responsive.jpg)
+
+## Built with
+ - HTML5
+ - CSS3
+   - @media
+```css
+@media (max-width: 1440px) { ... }
+
+@media (max-width: 375px) { ... }
+```
+- Bootstrap
+  - Available classes
+  ```html
+    <!-- visible xs -->
+      <div class="padre_imagen d-block d-sm-none"> ... </div>
+
+   <!-- hidden xs -->
+      <div class="padre_imagen d-none d-sm-block"> ... </div>           
+  ```
+
+## Author
+- Website - [Virginia Díaz](https://github.com/Virginiadm){:target="_blank"}
+- Frontend Mentor - [Virginia Díaz](https://www.frontendmentor.io/profile/Virginiadm){:target="_blank"}
